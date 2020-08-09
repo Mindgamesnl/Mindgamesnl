@@ -1,1 +1,1 @@
-![Banner](https://i.imgur.com/PHoklRv.png)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindgamesnl&layout=compact&show_icons=true) ![other](https://github-readme-stats.vercel.app/api?username=Mindgamesnl&show_icons=true&include_all_commits=true&show_icons=true)
