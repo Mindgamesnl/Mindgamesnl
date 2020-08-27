@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# Hoihoi!
+My name is Mats (or Mindgamesnl) and I'm a dutch software developer who spends all of his free time developing awesome projects for everyone to enjoy.
 
-You can use the [editor on GitHub](https://github.com/Mindgamesnl/Mindgamesnl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal updates, or optionally support my work via a [one time donation](https://donate.craftmend.com/) or [patreon](https://www.patreon.com/mindgamesnl)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mindgamesnl/Mindgamesnl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindgamesnl&layout=compact&show_icons=true&count_private=true) ![other](https://github-readme-stats.vercel.app/api?username=Mindgamesnl&show_icons=true&include_all_commits=true&show_icons=true&count_private=true)
