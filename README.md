@@ -3,4 +3,4 @@ My name is Mats (or Mindgamesnl) and I'm a dutch software developer who spends a
 
 You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal updates, or optionally support my work via a [one time donation](https://donate.craftmend.com/) or [patreon](https://www.patreon.com/mindgamesnl)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindgamesnl&layout=compact&show_icons=true&count_private=true) ![other](https://github-readme-stats.vercel.app/api?username=Mindgamesnl&show_icons=true&include_all_commits=true&show_icons=true&count_private=true)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindgamesnl&layout=compact&show_icons=true&count_private=true)
