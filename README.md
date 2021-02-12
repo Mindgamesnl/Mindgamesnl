@@ -9,4 +9,5 @@ You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal upd
  - [The technical setup of a large minecraft music festival (by taking it to the cloud)](https://mindgamesnl.medium.com/minecraft-at-scale-what-not-to-do-cda8cf803eca) 
 
 # Flexing with the fact that I don't have a social life
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindgamesnl&theme=dark" alt="justinnndev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindgamesnl&theme=dark" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mindgamesnl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
