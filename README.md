@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/6RZF9d1.png">
+  <img src="https://i.imgur.com/VRkNl6w.png">
  <br />
  <a href="https://patreon.com/mindgamesnl"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmindgamesnl%26type%3Dpatrons&style=for-the-badge" /></a>
 </p>
