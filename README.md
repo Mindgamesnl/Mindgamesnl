@@ -1,5 +1,8 @@
-# Hoihoi!
-My name is Mats (but feel free to call me Matt) and I'm a dutch software developer who spends all of his free time developing awesome projects for everyone to enjoy.
+<p align="center">
+  <img src="https://i.imgur.com/6RZF9d1.png">
+ <br />
+ <a href="https://www.patreon.com/bePatron?u=536149" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+</p>
 
 You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal updates, or optionally support my work via a [one time donation](https://donate.craftmend.com/) or [patreon](https://www.patreon.com/mindgamesnl)
 
