@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/6RZF9d1.png">
  <br />
- <a href="https://www.patreon.com/bePatron?u=536149" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+ <a href="https://patreon.com/mindgamesnl"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmindgamesnl%26type%3Dpatrons&style=for-the-badge" /></a>
 </p>
 
 You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal updates, or optionally support my work via a [one time donation](https://donate.craftmend.com/) or [patreon](https://www.patreon.com/mindgamesnl)
