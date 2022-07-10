@@ -12,6 +12,7 @@ You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal upd
 
 
 # Interesting articles
+ - [How Imaginefun handles hundreds of moving entities in Microseconds](https://imaginefun.notion.site/COBALT-Our-in-house-entity-engine-f4173d32ce9c4af48943d60495f5f268)
  - [Upcomming Patreon exclusive features using my new Toothpaste pre-processor](https://www.patreon.com/posts/57791777)
  - [How ImagineFun simulates train physics and animation with Blender and Kotlin](https://mindgamesnl.medium.com/imagine-fun-imagineering-how-the-trains-tick-db489792a1cd)
  - [How OpenAudioMc works around timezones and latency](https://mindgamesnl.medium.com/how-openaudiomc-handles-near-perfect-music-and-voice-synchronization-642579d1da20?source=follow_footer---------1----------------------------)
