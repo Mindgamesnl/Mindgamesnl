@@ -4,7 +4,7 @@
  <a href="https://patreon.com/mindgamesnl"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmindgamesnl%26type%3Dpatrons&style=for-the-badge" /></a>
 </p>
 
-You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal updates, or optionally support my work via a [one time donation](https://donate.craftmend.com/) or [patreon](https://www.patreon.com/mindgamesnl)
+You can follow me on [twitter](https://twitter.com/Mindgamesnl) for personal updates, or optionally support my work via [patreon](https://www.patreon.com/mindgamesnl)
 
 # Interesting articles
  - [How Imaginefun handles thousands of moving entities in Microseconds](https://imaginefun.notion.site/COBALT-Our-in-house-entity-engine-f4173d32ce9c4af48943d60495f5f268)
