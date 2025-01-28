@@ -10,9 +10,9 @@ Connect with me on [Twitter](https://twitter.com/Mindgamesnl) or support my open
 
 ## Technical Deep Dives
 - [COBALT: Handling Thousands of Moving Entities in Microseconds](https://imaginefun.notion.site/COBALT-Our-in-house-entity-engine-f4173d32ce9c4af48943d60495f5f268)
-- [Advanced Minecraft Mechanics: Train Physics with Blender & Kotlin](https://mindgamesnl.medium.com/imagine-fun-imagineering-how-the-trains-tick-db489792a1cd)
+- [Bodging in Java - Crimes against the runtime](https://mats.coffee/blog/bodging-in-java)
+- [Building a dynamic blog CMS with virtual Vite bundles](https://mats.coffee/blog/building-a-blog)
 - [OpenAudioMc: Solving Audio Synchronization at Scale](https://mindgamesnl.medium.com/how-openaudiomc-handles-near-perfect-music-and-voice-synchronization-642579d1da20)
-- [Scaling Minecraft: Lessons from a Music Festival](https://mindgamesnl.medium.com/minecraft-at-scale-what-not-to-do-cda8cf803eca)
 - [Patreon Exclusive: Toothpaste Pre-processor Features](https://www.patreon.com/posts/57791777)
 
 <p align="center">
