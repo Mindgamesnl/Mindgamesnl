@@ -9,6 +9,7 @@ Software Engineer specializing in large-scale Minecraft infrastructure and audio
 Connect with me on [Twitter](https://twitter.com/Mindgamesnl) or support my open-source work on [Patreon](https://www.patreon.com/mindgamesnl).
 
 ## Technical Deep Dives
+- [Hacking the housing market (Outcrawling crawlers)](https://mats.coffee/blog/hacking-the-housing-market)
 - [Building in-game shows and events with real light consoles](https://mats.coffee/blog/block-art-with-artnet)
 - [COBALT: Handling Thousands of Moving Entities in Microseconds](https://imaginefun.notion.site/COBALT-Our-in-house-entity-engine-f4173d32ce9c4af48943d60495f5f268)
 - [Bodging in Java - Crimes against the runtime](https://mats.coffee/blog/bodging-in-java)
