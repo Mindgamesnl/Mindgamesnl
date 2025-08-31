@@ -20,3 +20,7 @@ Connect with me on [Twitter](https://twitter.com/Mindgamesnl) or support my open
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindgamesnl&theme=dark" />
 </p>
+
+
+<!-- my-badges start -->
+<!-- my-badges end -->
