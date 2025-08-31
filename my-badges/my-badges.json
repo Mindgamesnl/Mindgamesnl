@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Mindgamesnl/Web-Navi/commit/af2db0dbb923ef1f2ee57feea50714eae12060ef\"><strong>a</strong>f2db0dbb923ef1f2ee57feea50714eae12060ef</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/ab636fec18ba1a83ffaae3c203cf28fad4bdd78a\"><strong>ab</strong>636fec18ba1a83ffaae3c203cf28fad4bdd78a</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/abc4fbecec64e9c72e96d3179444d0217756f05f\"><strong>abc</strong>4fbecec64e9c72e96d3179444d0217756f05f</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "bad-words",
+    "tier": 0,
+    "desc": "I used a word \"fuck\" in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/akai-util/commit/bdcc798ae1217bb5798b689c76ecb98befe66841\">bdcc798</a>: Fuck it\n- <a href=\"https://github.com/Mindgamesnl/nzxt-linux-driver/commit/05eab19cb3dfa0fdacffc3552515738fa0af7acc\">05eab19</a>: Ah. They use GRB instead of RGB. that makes sense. Fuck off.\n- <a href=\"https://github.com/Mindgamesnl/toetmats.nl/commit/7144f320f4c111dbcce13428e75ea8c10c6ecb6d\">7144f32</a>: Create fuckthis\n- <a href=\"https://github.com/Mindgamesnl/GoPack/commit/d1a1eb94d23a59424b6cbc412e40ec8087cb11b5\">d1a1eb9</a>: unfuck some textueres lol\n- <a href=\"https://github.com/Mindgamesnl/GoPack/commit/81744dbd4aa6b05df30b913262b3dd0185a341fc\">81744db</a>: Unfuck and make it work lol\n- <a href=\"https://github.com/Mindgamesnl/socketio/commit/eb1420bb2fbcefa561cdecc5364d1e7a973f6585\">eb1420b</a>: fuck more useless\n- <a href=\"https://github.com/Mindgamesnl/socketio/commit/d346a59339a341426c14056fcd1fb7474fdda675\">d346a59</a>: Unfuck server boot\n- <a href=\"https://github.com/Mindgamesnl/GoFlare/commit/a3c2891bd65f83c2f5db59b880c0fd5d9dc87d48\">a3c2891</a>: Unfuck\n- <a href=\"https://github.com/Mindgamesnl/TinderAnalyzer/commit/eededb47a0a98234f1fff09fdb5cbb2d3e74b9c6\">eededb4</a>: fuck\n- <a href=\"https://github.com/Mindgamesnl/Pterodactyl4J/commit/08c4582961033b582defb22d337fad3b2c09b8c8\">08c4582</a>: Fuck it, maven repos\n- <a href=\"https://github.com/Mindgamesnl/city-hunt-game/commit/66650f2b31a432a7512f155a5fef8bc5fe0dad6c\">66650f2</a>: Adding a map and a fuck ton of cords\n- <a href=\"https://github.com/Mindgamesnl/FireIO/commit/9c491a79a8bfcbc6a0fe2009da873daffacc6136\">9c491a7</a>: I'm a fucking idiot.\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/b7de0fefbc447340c0efb8821b071437a752ef3e\">b7de0fe</a>: Undo fuck\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/1fe38ae9671044ddd0c4f0c854b4f993d9f9cfd4\">1fe38ae</a>: Refactor routes to not fuck with gitignore\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/cb1bc2381b89bc7d0057b3e9202b9b2280777cd2\">cb1bc23</a>: Velocity fuckery\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/46c2ec210475280d652f47fc23bed8810da18b45\">46c2ec2</a>: Fix IntelliJ fuckup\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/77ade5041e983f76b32aa3c056c990c9a6146fed\">77ade50</a>: Fuck\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/48a42ef088cd5162e4f91886c14401b0ca83ead4\">48a42ef</a>: imaginefucks\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/ae5bfc1109a5092292367d9b57879c38f5a4b17d\">ae5bfc1</a>: Fuck?\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/d946d5bcdc0f476de7631229bfd5e0883ef162ca\">d946d5b</a>: Resolve maven fuckery\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/1cf8db76038acc3421781b348dffc184b09938e2\">1cf8db7</a>: Goodnight folks, im tired as fuck\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/965af8290e08d6aaf71c456d0cc781507c0fef3e\">965af82</a>: Unfuck bungee messaging and add notes to docs\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/1b1427bb1a43137ea9991fffdcd957ddce0d21d9\">1b1427b</a>: Fuck it, use both\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/24f8e71e8d57cd74d754a009a5141c640745612a\">24f8e71</a>: Unfuck lol\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/545a54d4ddbcc751ceaa048e3555a533a05872f8\">545a54d</a>: return og on fuckup\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/2b35f58d988ce6980f1270a0528f6639c0ac46b2\">2b35f58</a>: fuck it\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/f4138cb50ba7bd8d80019dcaebda835b65941910\">f4138cb</a>: Better dependency manager since bukkit already fucked me over\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/8ee032c53077c68596bfa083ea3151d16b0bfe15\">8ee032c</a>: yeah stero mixing is fucked\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/2ba6a9223a81cc0eb59bfc42e1ab7cd8bf8fff6f\">2ba6a92</a>: HAHAHA YES OLD SPEAKERS WORK FUCKYESSS\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/495fa04b2303d9fa39d599d9653b4683161b4e04\">495fa04</a>: FUCKFUCKFUCKFUCKFUCKFUCK\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/2d717362b4752e68f0fd193ce01c27ce82f6f5b2\">2d71736</a>: pre git fuck\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/e639f8080b761a5615d85299ff48561b88fbd836\">e639f80</a>: Fuck off nullcheck\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/661d427a267cb1fc78f8adbdc9602c2c788429e7\">661d427</a>: Change truely HORRIBLE naming scheme, fuck past me, what were u smoking\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/0fa555b99a4b838c2962a30861e52873a8838eda\">0fa555b</a>: upnp fuckery\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/18a37c6feb4828844e67cab946f797644edbf3b7\">18a37c6</a>: more fuckery\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/cb2e97c37a6d3a7367947ba050c310a346632b8e\">cb2e97c</a>: instantly shut the fuck up mode\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/9573b81324e0884cf3cd2d46380df9f8a1cf14a1\">9573b81</a>: FUCK YOU PAST ME\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/738523311574a313198844001109dab669f03a1e\">7385233</a>: Show system! because fuckyeah.\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/8649f567fc6dcbeca6821675442d456d0a9939a3\">8649f56</a>: IF FUCKING WORKS\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/e76ca7258a09235417b42dfb6e1201b73bc59de5\">e76ca72</a>: Yo what the fuck\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/8b35a793757ff7297544ec2cc80b7a721d423d71\">8b35a79</a>: Progress and fucks\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/cb954f59553ade254f0df05ed735acb8a6df47a3\">cb954f5</a>: make it clearner, and use buttons! buttons are neat! yes! buttons! FUCK!\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/af830bd8c9420b246077fda6fcc85e32f7283735\">af830bd</a>: register it you fucknut\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/fe8736d31acf83e2b88d13f258c94655de5ce301\">fe8736d</a>: Make use of new sexy datawatchers because holy fuck is it more efficient\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/4305193c91e868be004ff80c654c7447ea688156\">4305193</a>: update wg dependency since i always should update the fucking shit\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/5c55dfc5bdb1137a76af2042ca135a25bfc38b4b\">5c55dfc</a>: Old MC. Fucker had a farm, HIAHIAHO\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/afddc949d5d2aaa5a7afa82610b9f512cc357f78\">afddc94</a>: hey look, we dont need this fuckery either\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/57c539eb7023e7d282640659cae1f5a53977b91d\">57c539e</a>: finally fucking fix audio trash cuz shit im useless\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/366fb05fe96f6bb3e07edcf6c5dd0351cae1502a\">366fb05</a>: Mats you dumb fuck, pass the instance\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/69acc57df38d164e007b3bc95a1bdbb940b9c144\">69acc57</a>: code cleanup\n\nfuck you\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/ff9d1bf756cc8e788067d3675cfddd2d2c0b69db\">ff9d1bf</a>: Revert \"No need for user interaction cuz chrome is fucking dumb lol\"\n\nThis reverts commit 5e41e96ff28a2662e414fac79fe1a74c05b469c0.\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/5e41e96ff28a2662e414fac79fe1a74c05b469c0\">5e41e96</a>: No need for user interaction cuz chrome is fucking dumb lol\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/cba511f09a33032c8fee337fff190076f6c4df52\">cba511f</a>: Hey Mats, be less fucking stupid\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/5d3b8e1cb5a26e486f7b8bb4c2bbc97d5982c82d\">5d3b8e1</a>: IF FUCKING WORKS TAKE THAT BISH\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/57f8f83e1726cdd3d569e3a10a6f988c2b51cee3\">57f8f83</a>: Merge pull request #57 from ApocalypsjeNL/master\n\nwill this move your to the main or will it fuck yours?\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/2e08bf4e84cf4cb3ccd440950e6fa098ea9f70df\">2e08bf4</a>: fixes and extra debug info\n\nand the fucking wifi here is down so cant upload this...\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/e358a39335b9312733d340696a691c1454c060ea\">e358a39</a>: IT'S FINNALY FUCKING DONE!\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/ce9b4816d626cded7f5f8b9797e46ad5b226f399\">ce9b481</a>: i may have fucked up\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/b51bb2bdfa155455f02870129fb6a8201a27885a\">b51bb2b</a>: Okay, i fucked up the last upload WHOOPS",
+    "image": "https://my-badges.github.io/my-badges/bad-words.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/a298e21a6e823d31e62a263ba81ee79e5a1cafe1\">a298e21a6e823d31e62a263ba81ee79e5a1<strong>cafe</strong>1</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/5f80052f4a7551eb06eaa5d1d954de92a97cafe6\">5f80052f4a7551eb06eaa5d1d954de92a97<strong>cafe</strong>6</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/b98812f95599871ab20309a4ce65975f7ae897b8\">b98812f</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/61deadea89a396c3a3c6498bdbdbdb0924ef579e\">61<strong>dead</strong>ea89a396c3a3c6498bdbdbdb0924ef579e</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/3dd4162fdc5fdead10a2dc6057881d23deec8d38\">3dd4162fdc5f<strong>dead</strong>10a2dc6057881d23deec8d38</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/a9af81aeaa4797ec2e96c9a7994e08c42f71dead\">a9af81aeaa4797ec2e96c9a7994e08c42f71<strong>dead</strong></a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/city-hunt-game/commit/3b1370646ca16517d6473bcad09377fed374f9c7\">3b13706</a>\n- <a href=\"https://github.com/Mindgamesnl/city-hunt-game/commit/66650f2b31a432a7512f155a5fef8bc5fe0dad6c\">66650f2</a>\n- <a href=\"https://github.com/Mindgamesnl/city-hunt-game/commit/1ce873aabdf8bca1c8581343c4b4f7c888c2a2dd\">1ce873a</a>\n- <a href=\"https://github.com/Mindgamesnl/city-hunt-game/commit/6bf3192e786cd473c5d236266d9f949310599eee\">6bf3192</a>\n- <a href=\"https://github.com/Mindgamesnl/city-hunt-game/commit/f01bd58e237bb8151d493744fcc1b479fc98ba89\">f01bd58</a>\n- <a href=\"https://github.com/Mindgamesnl/city-hunt-game/commit/0f64ede86760cc795b17a13470824a2cb5b87476\">0f64ede</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/1b5548d2b7b35a69d52468b4f15a1d991e7b47ca\">1b5548d</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/63da86914eb88351bd6d895d51cc84f5752fdd1a\">63da869</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"merge\".",
+    "body": "My favorite commit message words are:\n\n1. merge (used 467 times)\n2. update (used 402 times)\n3. fix (used 391 times)\n4. request (used 317 times)\n5. pull (used 315 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/storm/commit/28512a4666c6d0ffa5b041550c5de717617e1ad1\">28512a4</a>: Fix limits\n- <a href=\"https://github.com/Mindgamesnl/storm/commit/9b10da01e4c29a10c0fa93d7382dabc34f7868db\">9b10da0</a>: Fix",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/9463fb0a7fcf2560cfd73533fcf09ff73fbb11fa\">9463fb0</a>: fix issue\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/0c73b3f6f595bd5e18c8008b36d97a488fcb9ac3\">0c73b3f</a>: fix styling\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/56ae37b28c11c0e669cf8d1b7ff430a73b24b22c\">56ae37b</a>: fixes for hidden clients",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/78e3afbefc7be89e070ef53191ed3eb3fcf7c54b\">78e3afb</a>: fix internal nbtapi\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/14ffd6a5081062caf635524f8b8105efe04a47c9\">14ffd6a</a>: Fix modern region registry lookup\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/516819be49eb8b56d2ba0a44504c8b174e3c4b25\">516819b</a>: fix compile scope\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/f7c077450971193e710a384c79a8a8dc495ba289\">f7c0774</a>: fix ignore",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/44203a489cd8e34593ffbc32eab2c9835ee71e20\">44203a4</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/184cb0b38fc4613920d4c895269caee4778cf7b2\">184cb0b</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/19e8b9b31d5b4ac7b9229171e9ac4c8a703dddb3\">19e8b9b</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/ff049903cb287e262c58b169a9891cca961ac09c\">ff04990</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/303805e02aa545bdb482944a3f1eea70bba2fdcc\">303805e</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/98f7460960a86982f243a2cae155d2f72c0c76ab\">98f7460</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/4093cf0114d3d79c488b927ffcaf0800314d66ab\">4093cf0</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/51d86babf34be29f02c7abb5e20ad0979f3fad87\">51d86ba</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/ddad21bc459c2464ad03ca8792dcd834ca6ec41b\">ddad21b</a>\n- <a href=\"https://github.com/Mindgamesnl/storm/commit/c135178d948942d4d4b6188f53283310b0a644fa\">c135178</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/367c5944d03806d572e252346839ed34d200d3d9\">367c594</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/554aa3476f0bf238ed554980538c98e8100e2cd5\">554aa34</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/09ff867cbc3a88e20f34d740e65e444b4adfa54f\">09ff867</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/mineos-node/commit/a0a3e463f33a9ee4fec55c4d926fa156b271ca07\">a0a3e46</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/mineos-node/commit/a0a3e463f33a9ee4fec55c4d926fa156b271ca07\">a0a3e46</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ImagineeringFun/imagineeringfun.github.io/issues/1\">#1</a>: OpenAudioMc copyright",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/upptime/uptime-monitor/pull/194\">#194</a>: Ability to hide sources in discord notifications",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/d752b07cd0f9005f70cbab27a6416e6498795512\">d752b07</a>",
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/ShitThatRunsMyHome/commit/6335246adb3375da97cd80bf35cf6d3b7a6d3d9d\">6335246</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 12 my own repositories.",
+    "body": "- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc\">Mindgamesnl/OpenAudioMc</a>\n- <a href=\"https://github.com/Mindgamesnl/GoPack\">Mindgamesnl/GoPack</a>\n- <a href=\"https://github.com/Mindgamesnl/craftmend-api\">Mindgamesnl/craftmend-api</a>\n- <a href=\"https://github.com/Mindgamesnl/socketio\">Mindgamesnl/socketio</a>\n- <a href=\"https://github.com/Mindgamesnl/GoFlare\">Mindgamesnl/GoFlare</a>\n- <a href=\"https://github.com/Mindgamesnl/toetmats.nl\">Mindgamesnl/toetmats.nl</a>\n- <a href=\"https://github.com/Mindgamesnl/storm\">Mindgamesnl/storm</a>\n- <a href=\"https://github.com/Mindgamesnl/Mindgamesnl\">Mindgamesnl/Mindgamesnl</a>\n- <a href=\"https://github.com/Mindgamesnl/toothpaste\">Mindgamesnl/toothpaste</a>\n- <a href=\"https://github.com/Mindgamesnl/gargs\">Mindgamesnl/gargs</a>\n- <a href=\"https://github.com/Mindgamesnl/csv-to-object\">Mindgamesnl/csv-to-object</a>\n- <a href=\"https://github.com/Mindgamesnl/mc\">Mindgamesnl/mc</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/Mindgamesnl/storm\">Mindgamesnl/storm: ★26</a>\n* <a href=\"https://github.com/Mindgamesnl/FireIO\">Mindgamesnl/FireIO: ★12</a>\n* <a href=\"https://github.com/Mindgamesnl/GoogleDriveResource\">Mindgamesnl/GoogleDriveResource: ★10</a>\n* <a href=\"https://github.com/Mindgamesnl/BarelyAuthenticated\">Mindgamesnl/BarelyAuthenticated: ★6</a>\n* <a href=\"https://github.com/Mindgamesnl/GoPack\">Mindgamesnl/GoPack: ★6</a>\n* <a href=\"https://github.com/Mindgamesnl/piper\">Mindgamesnl/piper: ★5</a>\n* <a href=\"https://github.com/Mindgamesnl/WebAudio\">Mindgamesnl/WebAudio: ★4</a>\n* <a href=\"https://github.com/Mindgamesnl/mc\">Mindgamesnl/mc: ★4</a>\n* <a href=\"https://github.com/Mindgamesnl/Efteling-API\">Mindgamesnl/Efteling-API: ★3</a>\n* <a href=\"https://github.com/Mindgamesnl/city-hunt-game\">Mindgamesnl/city-hunt-game: ★3</a>\n* <a href=\"https://github.com/Mindgamesnl/GoFlare\">Mindgamesnl/GoFlare: ★3</a>\n* <a href=\"https://github.com/Mindgamesnl/Greetings\">Mindgamesnl/Greetings: ★3</a>\n* <a href=\"https://github.com/Mindgamesnl/toothpaste\">Mindgamesnl/toothpaste: ★3</a>\n* <a href=\"https://github.com/Mindgamesnl/engine.io-client-java\">Mindgamesnl/engine.io-client-java: ★2</a>\n* <a href=\"https://github.com/Mindgamesnl/TcCameraCotrol\">Mindgamesnl/TcCameraCotrol: ★2</a>\n* <a href=\"https://github.com/Mindgamesnl/SimpleEvents\">Mindgamesnl/SimpleEvents: ★2</a>\n* <a href=\"https://github.com/Mindgamesnl/Mindgamesnl\">Mindgamesnl/Mindgamesnl: ★2</a>\n* <a href=\"https://github.com/Mindgamesnl/socketio\">Mindgamesnl/socketio: ★2</a>\n* <a href=\"https://github.com/Mindgamesnl/ChaosCrafter-lametric-app\">Mindgamesnl/ChaosCrafter-lametric-app: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/BetterDiscordApp\">Mindgamesnl/BetterDiscordApp: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/Java-WebSocket\">Mindgamesnl/Java-WebSocket: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/empirewand\">Mindgamesnl/empirewand: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/API-Security-Checklist\">Mindgamesnl/API-Security-Checklist: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/Efteling.jar\">Mindgamesnl/Efteling.jar: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/MagicMirrorTouchGestures\">Mindgamesnl/MagicMirrorTouchGestures: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/RestCraft\">Mindgamesnl/RestCraft: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/guides\">Mindgamesnl/guides: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/scrollable-audio\">Mindgamesnl/scrollable-audio: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/Pterodactyl4J\">Mindgamesnl/Pterodactyl4J: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/TinderAnalyzer\">Mindgamesnl/TinderAnalyzer: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/Vector\">Mindgamesnl/Vector: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/centralized-config\">Mindgamesnl/centralized-config: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/YandereStats\">Mindgamesnl/YandereStats: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/craftmend-api\">Mindgamesnl/craftmend-api: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/EpicCraft\">Mindgamesnl/EpicCraft: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/Awesome\">Mindgamesnl/Awesome: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/toetmats.nl\">Mindgamesnl/toetmats.nl: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/maven-dependency-extractor\">Mindgamesnl/maven-dependency-extractor: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/task-tracker\">Mindgamesnl/task-tracker: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/openaudio-maven-discord-integration\">Mindgamesnl/openaudio-maven-discord-integration: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/nzxt-linux-driver\">Mindgamesnl/nzxt-linux-driver: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/csv-to-object\">Mindgamesnl/csv-to-object: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/gargs\">Mindgamesnl/gargs: ★1</a>\n* <a href=\"https://github.com/Mindgamesnl/uptime-kuma-theme\">Mindgamesnl/uptime-kuma-theme: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/968cdbf091d7a8ff0858bbe9721b53d30196740e\">968cdbf</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/22c6341a52bdced90c53c609c5ae865d271f98c3\">22c6341</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/32dafae5e3888321cff5bb1af477616b6e3c27a1\">32dafae</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/f3ebb09d75b7d23e076c26051bbc82e721aa83e3\">f3ebb09</a>\n- <a href=\"https://github.com/Mindgamesnl/SamplePlugin/commit/136e9e9ccdf187122f29a09249f6f3976db6fb17\">136e9e9</a>\n- <a href=\"https://github.com/Mindgamesnl/SamplePlugin/commit/1306222b7e3b6070b1988f6fb7e6b22dc9a9f9e8\">1306222</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/0d2d466409d2a0540718867a23e275f1105a0dee\">0d2d466</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/9dd60b476398324057270cea85230107b788c027\">9dd60b4</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/dfa817c1f083f0ea07d0a33d39d6731418fcacca\">dfa817c</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/db574a7558a0f59fd140189dea25be06dfcd9050\">db574a7</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/f60cdb73a7dd3b7053cb7116e5cc1ecb1dc76d1c\">f60cdb7</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/b3c190b3d25341c9ad3767b2e01b48e854093f1e\">b3c190b</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/78b5a40c60881dda466297f6a37334026fed72d2\">78b5a40</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/78e3afbefc7be89e070ef53191ed3eb3fcf7c54b\">78e3afb</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/14ffd6a5081062caf635524f8b8105efe04a47c9\">14ffd6a</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/516819be49eb8b56d2ba0a44504c8b174e3c4b25\">516819b</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/f7c077450971193e710a384c79a8a8dc495ba289\">f7c0774</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/348b0fcd0fc2c0ef1c79c92ef2901b4636ca7d90\">348b0fc</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/1271eb41e9a6cbe0bb2ff9a4c1e5fa9ab80927c3\">1271eb4</a>\n- <a href=\"https://github.com/Mindgamesnl/Mindgamesnl/commit/1e4b28e40432603c1c091d11a84b21c9ecdd6055\">1e4b28e</a>\n- <a href=\"https://github.com/Mindgamesnl/nzxt-linux-driver/commit/1be2fc93e940a6f87dd6735ebd4585b024727b92\">1be2fc9</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/4f8570b0c91f6fa39c42468be7ebe05c2d38f13f\">4f8570b</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/fe5010583da71f8fc7f9fb88a81a93ce112e00e8\">fe50105</a>\n- <a href=\"https://github.com/Mindgamesnl/OpenAudioMc/commit/e1d12467cf817c9aa58d799fafc3d104f5827efc\">e1d1246</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
