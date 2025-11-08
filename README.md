@@ -8,7 +8,9 @@ Software Engineer specializing in large-scale Minecraft infrastructure and audio
 
 Connect with me on [Twitter](https://twitter.com/Mindgamesnl) or support my open-source work on [Patreon](https://www.patreon.com/mindgamesnl).
 
-## Technical Deep Dives
+## Blog articles
+- [Migrating from Cloudflare D1 to Hyperdrive](https://mats.coffee/blog/d1-to-hyperdrive)
+- [Keeping Track of Mojang's Enforcement Actions](https://mats.coffee/blog/mojang-blocklist-deepdive)
 - [Hacking the housing market (Outcrawling crawlers)](https://mats.coffee/blog/hacking-the-housing-market)
 - [Dutch Rail Data Heist: Real-Time Metrics, APIs, and Commuter Chaos](https://mats.coffee/blog/exploring-data-from-our-rail-network)
 - [Building in-game shows and events with real light consoles](https://mats.coffee/blog/block-art-with-artnet)
