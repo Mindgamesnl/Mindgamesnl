@@ -4,7 +4,7 @@
   <a href="https://patreon.com/mindgamesnl"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmindgamesnl%26type%3Dpatrons&style=for-the-badge" /></a>
 </p>
 
-Software Engineer specializing in large-scale Minecraft infrastructure and audio solutions. Currently building theme park experiences at ImagineFun and maintaining OpenAudioMc, the premier web-based audio solution for Minecraft.
+Software Engineer specializing in large-scale Minecraft infrastructure and audio solutions. Currently "PixelScript" (the MC JS runtime) at @Pixelib, building theme park experiences at ImagineFun and maintaining OpenAudioMc, the premier web-based audio solution for Minecraft.
 
 Connect with me on [Twitter](https://twitter.com/Mindgamesnl) or support my open-source work on [Patreon](https://www.patreon.com/mindgamesnl).
 
