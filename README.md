@@ -9,6 +9,8 @@ Software Engineer specializing in large-scale Minecraft infrastructure and audio
 Connect with me on [Twitter](https://twitter.com/Mindgamesnl) or support my open-source work on [Patreon](https://www.patreon.com/mindgamesnl).
 
 ## Blog articles
+- [Protecting customer media sources with asymmetric encryption](https://mats.coffee/blog/protecting-audio-sources-with-asymetric-encryption)
+- [Making cross platform C-Go builds as easy as 1-2-3](https://mats.coffee/blog/goomba-building-a-compiler-toolchain)
 - [Migrating from Cloudflare D1 to Hyperdrive](https://mats.coffee/blog/d1-to-hyperdrive)
 - [Keeping Track of Mojang's Enforcement Actions](https://mats.coffee/blog/mojang-blocklist-deepdive)
 - [Hacking the housing market (Outcrawling crawlers)](https://mats.coffee/blog/hacking-the-housing-market)
